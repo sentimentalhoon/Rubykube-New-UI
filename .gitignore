@@ -14,3 +14,4 @@
 .byebug_history
 .idea
 /config/application.yml
+app/views/markets/show.html.erb.bak
